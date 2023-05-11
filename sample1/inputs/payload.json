@@ -1,0 +1,38 @@
+{
+   "count":87,
+   "name":"Transaction",
+   "columnNames":[
+      "IncidentID",
+      "DateCreated",
+      "AgentName",
+      "AgentAccount",
+      "TableAssociation",
+      "Type"
+   ],
+   "rows":[
+      [
+         "5948180",
+         "'2023-05-01 06:30:06'",
+         "Agent",
+         "48",
+         "Cases",
+         "Edit"
+      ],
+      [
+         "5947369",
+         "'2023-05-01 06:30:06'",
+         "Agent",
+         "48",
+         "Cases",
+         "Edit"
+      ],
+      [
+         "5947569",
+         "'2023-05-01 06:30:06'",
+         "Agent",
+         "48",
+         "Cases",
+         "Edit"
+      ]
+   ]
+}
